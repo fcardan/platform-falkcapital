@@ -36,3 +36,36 @@ Website: [falkcapital.com.br](https://www.falkcapital.com.br)
   Real-time market news covering the most impactful updates and headlines.
 
 > _Markets covered: Stocks, BDRs, ETFs, Real Estate Funds, Fiagros, Cryptocurrencies, and Forex._
+
+<br>
+
+### (Asset)
+
+- **Overview:**  
+  Key information about the asset, including market, sector, and basic indicators.
+
+- **Economic & Financial Data:**  
+  Financial metrics and historical data to support in-depth analysis and valuation.
+
+- **Shareholders:**  
+  Breakdown of the asset’s ownership structure, including major shareholders and institutional investors.
+
+- **Indices Inclusion:**  
+  Lists of the indices in which the asset is currently included.
+
+- **Technical View:**  
+  Technical analysis with charts, indicators, and patterns to assist in timing decisions.
+
+- **Corporate Events:**  
+  Timeline of relevant corporate actions such as splits, mergers, or restructuring.
+
+- **Disclosures & Material Facts:**  
+  Complete list of official announcements and material facts related to the asset.
+
+- **Dividends Calendar:**  
+  Upcoming and past dividend payment dates with values and types.
+
+- **Offerings & Subscriptions:**  
+  Information on recent or ongoing public offerings and subscription rights.
+
+> _Detailed information about the asset itself. Some features and tools may be exclusive depending on the asset’s market._
