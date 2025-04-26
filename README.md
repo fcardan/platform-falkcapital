@@ -69,3 +69,20 @@ Website: [falkcapital.com.br](https://www.falkcapital.com.br)
   Information on recent or ongoing public offerings and subscription rights.
 
 > _Detailed information about the asset itself. Some features and tools may be exclusive depending on the asset’s market._
+
+<br> 
+
+### (Tools)
+- **DataCom Calendar:**
+System that algorithmically maps REITs/Fiagros dividend distribution schedules through historical pattern recognition.
+
+- **Retirement Forecasting:**
+Simplifying how you can calculate a retirement projection: Determine how long it will take you to achieve the monthly income you desire, with details, charts, and comparison to INSS.
+
+- **Stock Average Calculator:**
+This tool automatically calculates your average share price across multiple purchases in the Brazilian stock market.
+
+- **Drawdown Recovery Analyzer:**
+This tool calculates the percentage gain required to recover from an asset's price decline. 
+
+> _"Analytical tools delivering complementary strategic insights for portfolio optimization."_
