@@ -6,6 +6,7 @@ This repository contains the the documentation for falkcapital.com.br. The proje
 
 Website: [falkcapital.com.br](https://www.falkcapital.com.br)
 
+---
 
 ## 🔹 Features
 
@@ -86,3 +87,14 @@ This tool automatically calculates your average share price across multiple purc
 This tool calculates the percentage gain required to recover from an asset's price decline. 
 
 > _"Analytical tools delivering complementary strategic insights for portfolio optimization."_
+
+---
+
+## 🔹 Tech Stack
+
+- **Back-End:** PHP
+- **Front-End:** HTML5, CSS3, JS, Jquery
+- **Database:** MySQL
+- **PWA:** Javascript
+- **Agile:** Kanban
+- **GIT:** Bitbucket(Sourcetree) and now: GitHub
